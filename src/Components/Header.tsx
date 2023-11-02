@@ -15,7 +15,7 @@ const Header = () => {
             <h1 className="font-extrabold leading-6 text-white text-lg">Hirefy</h1>
         </div>
 
-        <AiOutlineClose className="text-white text-xl" />
+        <AiOutlineClose className="text-white text-xl" onClick={() => setIsOpen(false)}  />
     </div>
   )
 }
