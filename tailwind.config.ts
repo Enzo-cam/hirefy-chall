@@ -15,6 +15,8 @@ const config: Config = {
       },
       colors: {
         'azulMar': '#0D5287',
+        'celesteBg' : '#EFF7FF',
+        'gris': '#4B566B'
       },
     },
   },
